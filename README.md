@@ -1,4 +1,5 @@
-***DISCLAIMER:*** This fork is intended for ***EDUCATIONAL PURPOSES ONLY*** and is not supported for anything else. If you want Mesen for gaming, use the official, supported, version, linked below!
+***DISCLAIMER:*** This fork is intended for ***EDUCATIONAL PURPOSES ONLY*** and is not supported for anything else. 
+If you want Mesen for gaming, use the official, supported, version, linked below!
 
 # Mesen
 
