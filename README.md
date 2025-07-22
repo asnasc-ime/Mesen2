@@ -1,3 +1,5 @@
+***DISCLAIMER:*** This fork is intended for ***EDUCATIONAL PURPOSES ONLY*** and is not supported for anything else. If you want Mesen for gaming, use the official, supported, version, linked below!
+
 # Mesen
 
 Mesen is a multi-system emulator (NES, SNES, Game Boy, Game Boy Advance, PC Engine, SMS/Game Gear, WonderSwan) for Windows, Linux and macOS.  
